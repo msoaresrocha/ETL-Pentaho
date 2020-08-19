@@ -85,4 +85,7 @@ Then, I make a simple verification, after the transformation... if there is any 
 ### Conclusion
 This is how I made and simple verification of integration the I did not use any DBeaver or SQL Developer for look to integrations and the time of this Job in petaho was less and 2 minutes.
 
-
+#### The Importsys x EBS Oracle Project.
+Was with the same idea.
+![Alt text](https://github.com/msoaresrocha/ETL-Pentaho/blob/master/Images/Image%2016.png)
+![Alt text](https://github.com/msoaresrocha/ETL-Pentaho/blob/master/Images/Image%2017.png)
